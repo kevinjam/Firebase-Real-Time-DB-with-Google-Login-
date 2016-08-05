@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RealTimeDb_Firebase</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_in">Simple Google Login with Firebase </string>
+</resources>
